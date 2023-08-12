@@ -8,15 +8,11 @@
 
 <br />
 
-I am a full-stack developer, bachelor in informartion systems, fiance and future father.
+I am a full-stack .NET, Ruby and React developer, tech lead, bachelor in informartion systems, father and geek.
 
 <br />
 
-- 🔭 I’m currently working on Bússola do Investidor as a Fullstack Developer with .Net Core, React and AWS.
-- 🌱 I’m currently learning React, Next.js, Node.js and Python
-- 💬 Ask me about anything, i would love to talk
 - 📫 How to reach me: sbrenomartins@gmail.com
-- ⚡ Fun fact: I'm 1.67 tall 😂
 
 <br />
 
