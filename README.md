@@ -8,7 +8,7 @@
 
 <br />
 
-I am a full-stack .NET, Ruby and React developer, tech lead, bachelor in informartion systems, father and geek.
+I am a full-stack .NET and React developer, tech lead, bachelor in informartion systems, father and geek.
 
 <br />
 
